@@ -1,0 +1,8 @@
+name: Coffee-environment
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - obspy
+  - seaborn

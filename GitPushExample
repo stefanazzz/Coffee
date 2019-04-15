@@ -1,0 +1,5 @@
+git init
+git add .
+git commit
+(git remote add Coffee git@github.com:stefanazzz/Coffee)
+git push -u Coffee master --force
