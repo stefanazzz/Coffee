@@ -1,0 +1,31 @@
+from pylab import *
+nx=  145; ny=32; npm=  12
+v1=zeros([ny,nx])
+v2=zeros([ny,nx])
+#
+s11=zeros([ny,nx])
+s22=zeros([ny,nx])
+s12=zeros([ny,nx])
+#
+m11=zeros([ny,nx])
+m22=zeros([ny,nx])
+m12=zeros([ny,nx])
+#
+mm11=zeros([ny,nx])
+mm22=zeros([ny,nx])
+mm12=zeros([ny,nx])
+#
+mu=zeros([ny,nx])
+muu=zeros([ny,nx])
+lam=zeros([ny,nx])
+diss=1e3*np.ones([ny,nx])
+rho=zeros([ny,nx])
+ro1=zeros([ny,nx])
+ro2=zeros([ny,nx])
+peak_12=zeros(nx)
+strini=zeros(nx)
+rdis=zeros(nx)
+slip=zeros(nx)
+broken=zeros(nx)
+itim=zeros(nx)
+fault=zeros(ny)

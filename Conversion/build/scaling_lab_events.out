@@ -1,0 +1,6 @@
+\BOOKMARK [1][-]{section.1}{Parameters of rock samples:}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{import xlsx file, show contents, use contents}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Make graphics using xlsx contents:}{}% 3
+\BOOKMARK [1][-]{section.3}{Export to LaTeX \(without code cells\)}{}% 4
+\BOOKMARK [1][-]{section.4}{compile pdflatex and visualise the result:}{}% 5
+\BOOKMARK [1][-]{section.5}{Export to LaTeX \(including code cells\)}{}% 6
