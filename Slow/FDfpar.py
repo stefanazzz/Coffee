@@ -11,4 +11,4 @@ InitAspLen=0
 mu_s=0.0
 mu_d=0.0
 nos1=400             #skip save fields
-nos2=4               #skip save traces
+nos2=25               #skip save traces
